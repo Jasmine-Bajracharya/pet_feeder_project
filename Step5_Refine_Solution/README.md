@@ -86,6 +86,6 @@ I had firstly given copilot a rough sketch of my idea and asked what improvement
 The system can be built using actual hardware by making use of different microcontrollers like Arduino or raspberry pi, sensors like weight sensors, IR sensors, real time clock and different buttons and knobs.The features can also be enhanced using cameras for pet monitoring.
 ![alt text](<Hardware implementation.png>)
 
-I also tried to understand the common challenges in pet feeser systems which included various hardware failures like sensor inaccuracy and motor malfunctions. There can also be challenges including pet overeating or under-eating.
+I also tried to understand the common challenges in pet feeder systems which included various hardware failures like sensor inaccuracy and motor malfunctions. There can also be challenges including pet overeating or under-eating.
 
 ![alt text](Challenges.png)
